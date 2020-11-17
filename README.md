@@ -1,2 +1,4 @@
 # calcCientifica-Mat2031088009
-trabalho 
+trabalho criação  de calculadora cientifica
+
+
