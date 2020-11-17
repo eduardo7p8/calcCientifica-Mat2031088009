@@ -169,12 +169,9 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="0.1"
-            android:text="/"
-            
-           
-            
             android:gravity="center"
-            android:textSize="7pt"/>
+            android:text="/"
+            android:textSize="7pt" />
     </LinearLayout>
 
     <LinearLayout
@@ -294,9 +291,6 @@
                 android:layout_height="match_parent"
             android:layout_weight="0.1"
             android:text="9"
-            
-           
-            
             android:gravity="center"
             android:textSize="7pt"/>
 
@@ -307,9 +301,6 @@
                 android:layout_height="match_parent"
             android:layout_weight="0.1"
             android:text="*"
-            
-           
-            
             android:gravity="center"
             android:textSize="7pt"/>
     </LinearLayout>
